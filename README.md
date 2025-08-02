@@ -1,1 +1,1 @@
-# Capstone-Project-II-Bike_Store-Analysis-SQL-Excel-Tableau-
+# Capstone-Project-II-Bike_Sales-Analysis-SQL-Excel-Tableau-
