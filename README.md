@@ -33,7 +33,7 @@ I followed a standard five-step data analysis process:
 The objective was to analyze the company’s sales performance over the 2016–2018 period and deliver **interactive dashboards** that executives could use for quick decision-making.
 
 ### 2. **Data Collection**
-I wrote an SQL script to extract relevant data from the company’s **SQL Server database**. This included joining multiple tables to get Order ID, Revenue, Store, State, Product Category, and Customer Info.
+I wrote a SQL script to extract relevant data from the company’s **SQL Server database**. This included joining multiple tables to get Order ID, Revenue, Store, State, Product Category, and Customer Info.
 
 ### 3. **Data Cleaning & Exploration**
 The exported data was loaded into both **Excel** and **Tableau**. After validating the dataset, I confirmed it had no missing or corrupt values and was ready for analysis.
