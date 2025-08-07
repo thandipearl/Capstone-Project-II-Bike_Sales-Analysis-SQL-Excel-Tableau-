@@ -56,7 +56,7 @@ The project successfully delivered two interactive dashboards that addressed the
 
 - **`Data Collection.sql`**: SQL script used to query the company’s relational database. It joins multiple tables to extract key data fields such as Order ID, Customer Name, Revenue, and Product Category.
   
-- **`Bike_Sales_Data.xlsx`**: The raw dataset collected from SQL, stored in an Excel workbook. This file serves as the foundational source for both dashboards.
+- **`Bike_Sales_Data.xlsx`**: The raw dataset collected from SQL, stored in an Excel workbook. The last workbook contains an Interactive Dashboard.
   
 - **`Bike_Sales_Excel_Interactive_Dashboard.PNG`**: A screenshot of the interactive sales dashboard built in Excel. It includes PivotTables, charts, and slicers for filtering key sales metrics.
   
