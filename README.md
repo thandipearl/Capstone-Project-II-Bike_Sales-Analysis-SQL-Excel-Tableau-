@@ -22,19 +22,6 @@ This project involved working with **9 interrelated tables** from the company's 
 
 I used these tables to write optimized SQL queries that extracted and joined data across multiple dimensions—sales, products, customers, staff, and inventory—to generate meaningful business insights.
 
-----
-
-## 📦 Project Deliverables
-
-- **`Data Collection.sql`**: SQL script used to query the company’s relational database. It joins multiple tables to extract key data fields such as Order ID, Customer Name, Revenue, and Product Category.
-  
-- **`Bike_Sales_Data.xlsx`**: The raw dataset collected from SQL, stored in an Excel workbook. This file serves as the foundational source for both dashboards.
-  
-- **`Bike_Sales_Excel_Interactive_Dashboard.PNG`**: A screenshot of the interactive sales dashboard built in Excel. It includes PivotTables, charts, and slicers for filtering key sales metrics.
-  
-- **`Bike_Sales_Tableau_Interactive_Dashboard.png`**: A screenshot of the interactive Tableau dashboard, offering more advanced visuals and interactivity to explore sales performance.
-  
-- **`SQL-Server-Sample-Database.zip`**: A compressed sample database used for this project, allowing others to replicate the data collection and querying steps.
 
 ---
 
@@ -61,7 +48,23 @@ The exported data was loaded into both **Excel** and **Tableau**. After validati
 ### 5. **Conclusion**
 The project successfully delivered two interactive dashboards that addressed the business problem. They empower management to monitor sales trends, identify top performers, and make data-driven decisions.
 
----
+
+
+----
+
+## 📦 Project Deliverables
+
+- **`Data Collection.sql`**: SQL script used to query the company’s relational database. It joins multiple tables to extract key data fields such as Order ID, Customer Name, Revenue, and Product Category.
+  
+- **`Bike_Sales_Data.xlsx`**: The raw dataset collected from SQL, stored in an Excel workbook. This file serves as the foundational source for both dashboards.
+  
+- **`Bike_Sales_Excel_Interactive_Dashboard.PNG`**: A screenshot of the interactive sales dashboard built in Excel. It includes PivotTables, charts, and slicers for filtering key sales metrics.
+  
+- **`Bike_Sales_Tableau_Interactive_Dashboard.png`**: A screenshot of the interactive Tableau dashboard, offering more advanced visuals and interactivity to explore sales performance.
+  
+- **`SQL-Server-Sample-Database.zip`**: A compressed sample database used for this project, allowing others to replicate the data collection and querying steps.
+
+  -----
 
 ## Tools Used
 
