@@ -20,7 +20,7 @@ This project involved working with **9 interrelated tables** from the company's 
 | **stocks**    | Inventory data showing product quantities by store. <br> Fields: `store_id`, `product_id`, `quantity` |
 | **stores**    | Store-level information, including location and contact details. <br> Fields: `store_id`, `store_name`, `phone`, `email`, `street`, `city`, `state`, `zip_code` |
 
-I used these tables to write optimized SQL queries that extracted and joined data across multiple dimensions—sales, products, customers, staff, and inventory—to generate meaningful business insights.
+I used these tables to write optimized SQL queries that extracted and joined data across multiple dimensions; sales, products, customers, staff, and inventory to generate meaningful business insights.
 
 
 ---
