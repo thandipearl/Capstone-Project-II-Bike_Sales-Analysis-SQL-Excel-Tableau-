@@ -60,7 +60,7 @@ The project successfully delivered two interactive dashboards that addressed the
   
 - **`Bike_Sales_Excel_Interactive_Dashboard.PNG`**: A screenshot of the interactive sales dashboard built in Excel. It includes PivotTables, charts, and slicers for filtering key sales metrics.
   
-- **`Bike_Sales_Tableau_Interactive_Dashboard.png`**: A screenshot of the interactive Tableau dashboard, offering more advanced visuals and interactivity to explore sales performance.
+- **`Bike_Sales_Tableau_Interactive_Dashboard.png`**: A screenshot of the interactive Tableau dashboard, offering more advanced visuals and interactivity to explore sales performance. [Click here to Interact with the Dashboard](https://public.tableau.com/app/profile/thandiwe.dlomo4563/viz/BikeSalesExecutiveDashboard/Dashboard1)
   
 - **`SQL-Server-Sample-Database.zip`**: A compressed sample database used for this project, allowing others to replicate the data collection and querying steps.
 
