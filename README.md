@@ -1,12 +1,12 @@
 # Capstone-Project-II-Bike_Sales-Analysis-SQL-Excel-Tableau-
 
-This repository contains a comprehensive data analysis portfolio for a bicycle retail company. The project's primary objective was to create **interactive sales dashboards** using **SQL**, **Excel**, and **Tableau** to provide the executive team with **actionable insights** into the company's sales performance from **2016 to 2018**.
+This repository contains a comprehensive data analysis portfolio for a bicycle retail company. The project's primary objective was to create **interactive sales dashboards** using **SQL**, **Excel** and **Tableau** to provide the executive team with **actionable insights** into the company's sales performance from **2016 to 2018**.
 
 ---
 
 ## 🗂️ Database Tables Used
 
-This project involved working with **9 interrelated tables** from the company's SQL relational database. These tables provided the foundational data for sales, customers, products, and staffing insights.
+This project involved working with **9 interrelated tables** from the company's SQL relational database. These tables provided the foundational data for sales, customers, products and staffing insights.
 
 | Table         | Description |
 |---------------|-------------|
@@ -46,7 +46,7 @@ The exported data was loaded into both **Excel** and **Tableau**. After validati
   - A **summary banner** with key KPIs
 
 ### 5. **Conclusion**
-The project successfully delivered two interactive dashboards that addressed the business problem. They empower management to monitor sales trends, identify top performers, and make data-driven decisions.
+The project successfully delivered two interactive dashboards that addressed the business problem. They empower management to monitor sales trends, identify top performers and make data-driven decisions.
 
 
 
@@ -68,7 +68,7 @@ The project successfully delivered two interactive dashboards that addressed the
 
 ## Tools Used
 
-- **MySQL ** – SQL querying and data extraction  
+- **MySQL** – SQL querying and data extraction  
 - **Microsoft Excel** – Data cleaning, PivotTables, and dashboard creation  
 - **Tableau Desktop** – Advanced visual analytics and interactive dashboarding  
 - **GitHub** – Version control and portfolio hosting
