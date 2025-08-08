@@ -83,5 +83,5 @@ This project highlights my ability to:
 - Build interactive dashboards using industry tools  
 - Present findings clearly to non-technical stakeholders
 
-If you have any feedback or would like to collaborate, feel free to reach out!
+
 
