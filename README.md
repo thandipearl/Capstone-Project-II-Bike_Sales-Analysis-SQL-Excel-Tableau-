@@ -1,4 +1,4 @@
-# Capstone-Project-II-Bike_Sales-Analysis-SQL-Excel-Tableau-
+# Bike_Sales-Analysis-SQL-Excel-Tableau-
 
 This repository contains a comprehensive data analysis portfolio for a bicycle retail company. The project's primary objective was to create **interactive sales dashboards** using **SQL**, **Excel** and **Tableau** to provide the executive team with **actionable insights** into the company's sales performance from **2016 to 2018**.
 
